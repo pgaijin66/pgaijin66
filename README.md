@@ -6,7 +6,6 @@
 
 Hello! :wave:
 - :sunglasses: I'm Prabesh
-- :np: born and raised in Nepal
 - :snake: I love Python 
 - :penguin: and Linux.
 - 📫 Reach me at: [Linkedin](https://www.linkedin.com/in/prabeshthapa)
