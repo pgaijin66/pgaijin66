@@ -7,7 +7,6 @@
 - :snake:  I love Python 
 - :penguin:  and Linux.
 - 🥅 Goals: Contribute more to Open Source projects.
-- 📫  Reach me at: [https://www.linkedin.com/in/prabeshthapa](https://www.linkedin.com/in/prabeshthapa)
 - ⚡  Fun fact: Humans Are Also the Only Animals Whose Brains Shrink as we get old.
 
 ### Connect with me 
