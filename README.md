@@ -1,6 +1,6 @@
 ## Hi there, I'm Prabesh 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=pgaijin66&color=blue)</div>
 
-### I am an Avid Linux enthusiast, DevOps/SRE engineer by day, Open Source tkinterer by night.
+### I am an Avid Linux enthusiast, DevOps/SRE engineer by day, Open Source tinkerer by night.
 
 - :sunglasses:  I'm currently exploring parts of Kubernetes and Terraform.
 - :office:  Currently working as SRE/DevOps Engineer at Audinate.
@@ -13,7 +13,6 @@
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
 <br />
 <br />
 
