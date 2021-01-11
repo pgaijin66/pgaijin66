@@ -8,7 +8,7 @@ def main() {
 ### I am an Avid Linux enthusiast, DevOps/SRE engineer by day, Open Source tinkerer by night.
 
 
-- 👨‍💻 I’m currently working as DevOps / SRE at [Audinate](http://audinate.com/) currently working on [Terraform](www.terraform.io) and [Kubernetes](https://kubernetes.io/). 
+- 👨‍💻 I’m currently working as DevOps / SRE at [Audinate](http://audinate.com/) and currently working on [Terraform](www.terraform.io) and [Kubernetes](https://kubernetes.io/). 
 - 🐧 I’m looking to collaborate on [Python](https://github.com/python) working groups & python related projects. 
 - 🐍 I’m a blogger at [99devops](https://99devops.com) and [knowledge academy](https://knowledgeacademy.io). 
 - 🐦 Best way to reach me is on [linkedin.com/in/prabeshthapa](https://www.linkedin.com/in/prabeshthapa)
