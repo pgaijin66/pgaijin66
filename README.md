@@ -1,13 +1,21 @@
-## Hi there, I'm Prabesh 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=pgaijin66&color=blue)</div>
+# Hi 👋, I'm Prabesh Thapa
+### DevOps / SRE
+
+```python
+def main() {
+```
 
 ### I am an Avid Linux enthusiast, DevOps/SRE engineer by day, Open Source tinkerer by night.
 
-- :sunglasses:  I'm currently exploring parts of Kubernetes and Terraform.
-- :office:  Currently working as SRE/DevOps Engineer at Audinate.
-- :snake:  I love Python 
-- :penguin:  and Linux.
-- 🥅 Goals: Contribute more to Open Source projects.
+
+- 👨‍💻 I’m currently working as DevOps / SRE at [Audinate](http://audinate.com/) currently working on [Terraform](www.terraform.io) and [Kubernetes](https://kubernetes.io/). 
+- 🐧 I’m looking to collaborate on [Python](https://github.com/python) working groups & python related projects. 
+- 🐍 I’m a blogger at [99devops](https://99devops.com) and [knowledge academy](https://knowledgeacademy.io). 
+- 🐦 Best way to reach me is on [linkedin.com/in/prabeshthapa](https://www.linkedin.com/in/prabeshthapa)
 - ⚡  Fun fact: Humans Are Also the Only Animals Whose Brains Shrink as we get old.
+
+---
+<p>
 
 ### Connect with me 
 
@@ -15,6 +23,10 @@
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <br />
 <br />
+
+
+---
+<p>
 
 ### Technology Stack:
 
@@ -34,22 +46,21 @@
 <br />
 <br />
 
+---
+<p>
+
 ### 📕 Latest Blog Posts
 
-➡️ [Medium](https://pgaijin66.medium.com/) <br />
-➡️ [Knowledge Academy](https://knowledgeacademy.io/)
+- [99devops.com](https://99devops.com) <br />
+- [Medium](https://pgaijin66.medium.com/) <br />
+- [Knowledge Academy](https://knowledgeacademy.io/)
 
-### :zap: GitHub Stats
+---
+<p>
 
-<a href="https://github.com/pgaijin66">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgaijin66&hide=c,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/pgaijin66">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pgaijin66&show_icons=true&cache_seconds=1800&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Prabesh's GitHub Stats" />
-</a>
-
-<br />
-<br />
+```python
+)
+```
 
 [blog]: https://pgaijin66.medium.com/
 [linkedin]: https://www.linkedin.com/in/prabeshthapa/
