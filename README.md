@@ -5,7 +5,7 @@
 def main() {
 ```
 
-### I am an Avid Linux enthusiast, DevOps/SRE engineer by day, Open Source tinkerer by night.
+### I am a Linux enthusiast and a life long learner.
 
 
 - 👨‍💻 I’m currently working as DevOps / SRE at [Audinate](http://audinate.com/) and currently working on [Terraform](www.terraform.io) and [Kubernetes](https://kubernetes.io/). 
@@ -58,9 +58,6 @@ def main() {
 ---
 <p>
 
-```python
-)
-```
 
 [blog]: https://pgaijin66.medium.com/
 [linkedin]: https://www.linkedin.com/in/prabeshthapa/
