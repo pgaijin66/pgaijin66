@@ -5,12 +5,12 @@
 def main() {
 ```
 
-### I am a Linux enthusiast and a life long learner.
+### I am a Linux enthusiast with a lot of respect for nature.
 
 
 - 👨‍💻 I’m currently working as DevOps / SRE at [Audinate](http://audinate.com/) and currently working on [Terraform](www.terraform.io) and [Kubernetes](https://kubernetes.io/). 
-- 🐧 I’m looking to collaborate on [Python](https://github.com/python) working groups & python related projects. 
-- 🐍 I’m a blogger at [99devops](https://99devops.com) and [knowledge academy](https://knowledgeacademy.io). 
+- 🐧 I’m looking to collaborate on [Python](https://github.com/python) / bash / golang working groups & related projects. 
+- 🐍 I’m a blogger at [99devops](https://99devops.com). 
 - 🐦 Best way to reach me is on [linkedin.com/in/prabeshthapa](https://www.linkedin.com/in/prabeshthapa)
 - ⚡  Fun fact: Humans Are Also the Only Animals Whose Brains Shrink as we get old.
 
