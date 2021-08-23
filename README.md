@@ -5,17 +5,11 @@
 <br />
 
 
----
-
 # Hi 👋, I'm Prabesh
 
-- 👨‍💻 I’m currently working as DevOps / SRE at [Audinate](http://audinate.com/). 
-- 🐧 I’m looking to collaborate on Python / bash / golang working groups & related projects. 
-- 🐍 I’m a blogger at [99devops](https://99devops.com). 
-- 🐦 Best way to reach me is on [linkedin.com/in/prabeshthapa](https://www.linkedin.com/in/prabeshthapa)
-- ⚡  Fun fact: Humans Are Also the Only Animals Whose Brains Shrink as we get old.
+<p> 👨‍💻 I’m currently working as DevOps / SRE at [Audinate](http://audinate.com/). 🐧 I’m looking to collaborate on Python / bash / golang working groups & related projects. 🐍 I’m a blogger at [99devops](https://99devops.com). 🐦 Best way to reach me is on [linkedin.com/in/prabeshthapa](https://www.linkedin.com/in/prabeshthapa). ⚡  Fun fact: Humans Are Also the Only Animals Whose Brains Shrink as we get old.
+</p>
 
----
 
 
 <p align='center'>
@@ -40,9 +34,6 @@
 
 
 </p>
-
-<br />
-<br />
 
 ### 📕 Latest Blog Posts
 
