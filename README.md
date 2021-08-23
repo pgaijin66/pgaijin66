@@ -27,32 +27,21 @@
 ### Technology Stack:
 
 <p align='center'>
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/go.png"></a>&nbsp;&nbsp;
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/bash.png"></a>&nbsp;&nbsp;
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/python.png"></a>&nbsp;&nbsp;
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/flask.png"></a>&nbsp;&nbsp;
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/tux.png"></a>&nbsp;&nbsp;
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/pg.png"></a>&nbsp;&nbsp;
 <a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/aws.png"></a>&nbsp;&nbsp;
 <a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/k8s.png"></a>&nbsp;&nbsp;
-<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/bash.png"></a>&nbsp;&nbsp;
-<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/go.png?raw=true"></a>
-<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/tux.png"></a>&nbsp;&nbsp;
 <a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/mongo.png"></a>&nbsp;&nbsp;
-<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/flask.png"></a>&nbsp;&nbsp;
-<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/python.png"></a>&nbsp;&nbsp;
-
-
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/ansible.png"></a>&nbsp;&nbsp;
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/docker.png"></a>&nbsp;&nbsp;
 </p>
 
 ### 📕 Latest Blog Posts
 
 - [99devops.com](https://99devops.com) <br />
 - [Medium](https://pgaijin66.medium.com/) <br />
-
-
-## My Week
-<!--START_SECTION:waka-->
-```text
-Ansible      30 mins         ████████████████▓░░░░░░░░   66.41 % 
-Bash.        10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.31 % 
-K8s          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Docker.      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-```
-<!--END_SECTION:waka-->
-
 
