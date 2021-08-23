@@ -7,7 +7,11 @@
 
 # Hi 👋, I'm Prabesh
 
-<p> 👨‍💻 I’m currently working as DevOps / SRE at [Audinate](http://audinate.com/). 🐧 I’m looking to collaborate on Python / bash / golang working groups & related projects. 🐍 I’m a blogger at [99devops](https://99devops.com). 🐦 Best way to reach me is on [linkedin.com/in/prabeshthapa](https://www.linkedin.com/in/prabeshthapa). ⚡  Fun fact: Humans Are Also the Only Animals Whose Brains Shrink as we get old.
+- <p> 👨‍💻 I’m a SRE currently woring on  
+- 🐧 I’m looking to collaborate on Python / bash / golang working groups & related projects. 
+- 🐍 I’m a blogger at [99devops](https://99devops.com). 
+- 🐦 Best way to reach me is on [linkedin.com/in/prabeshthapa](https://www.linkedin.com/in/prabeshthapa). 
+- ⚡  Fun fact: Humans Are Also the Only Animals Whose Brains Shrink as we get old.
 </p>
 
 
@@ -41,5 +45,14 @@
 - [Medium](https://pgaijin66.medium.com/) <br />
 
 
+## My Week
+<!--START_SECTION:waka-->
+```text
+Ansible      30 mins         ████████████████▓░░░░░░░░   66.41 % 
+Bash.        10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.31 % 
+K8s          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Docker.      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+```
+<!--END_SECTION:waka-->
 
 
