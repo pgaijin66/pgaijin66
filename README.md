@@ -25,7 +25,13 @@
 
 ### Technology Stack:
 
-![Go](icon/go.png =250x) ![Linux](icon/tux.png =250x) ![Python](icon/python.svg =250x) ![k8s](icon/k8s.png =250x) ![Bash](icon/bash.png =250x) ![aws](icon/aws.png =250x) ![mongo](icon/mongo.png =250x) ![Flask](icon/flask.png =250x)
+<img src="icon/go.png" width="200">
+<img src="icon/k8s.png" width="200"> 
+<img src="icon/tux.png" width="200"> 
+<img src="icon/bash.png" width="200"> 
+<img src="icon/aws.png" width="200">
+<img src="icon/mongo.png" width="200"> 
+
 
 <br />
 <br />
