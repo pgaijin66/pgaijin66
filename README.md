@@ -1,5 +1,5 @@
 <p align='center'>
-  <img width="250" align='center' style="border-radius: 50%" src="https://github.com/pgaijin66/pgaijin66/blob/main/icon/avatar.png?raw=true">
+  <a href=""><img width="250" align='center' style="border-radius: 50%" src="https://github.com/pgaijin66/pgaijin66/blob/main/icon/avatar.png" height="auto" width="200" style="border-radius:50%"></a>
 </p>
 
 <br />
