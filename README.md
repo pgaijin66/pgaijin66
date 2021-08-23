@@ -25,12 +25,12 @@
 
 ### Technology Stack:
 
-<img src="icon/go.png" width="200">
-<img src="icon/k8s.png" width="200"> 
-<img src="icon/tux.png" width="200"> 
-<img src="icon/bash.png" width="200"> 
-<img src="icon/aws.png" width="200">
-<img src="icon/mongo.png" width="200"> 
+<img src="icon/go.png" width="50">
+<img src="icon/k8s.png" width="50"> 
+<img src="icon/tux.png" width="50"> 
+<img src="icon/bash.png" width="50"> 
+<img src="icon/aws.png" width="50">
+<img src="icon/mongo.png" width="50"> 
 
 
 <br />
