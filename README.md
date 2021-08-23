@@ -28,13 +28,12 @@
 
 ### Technology Stack:
 
-<img src="icon/go.png" width="50" style="display: inline">
-<img src="icon/k8s.png" width="50"> 
-<img src="icon/tux.png" width="50"> 
-<img src="icon/bash.png" width="50"> 
-<img src="icon/aws.png" width="50">
-<img src="icon/mongo.png" width="50"> 
-
+<p align='center'>
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/aws.png"></a>&nbsp;&nbsp;
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/k8s.jpeg"></a>&nbsp;&nbsp;
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/bash.png"></a>&nbsp;&nbsp;
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/go.png?raw=true"></a>
+</p>
 
 <br />
 <br />
