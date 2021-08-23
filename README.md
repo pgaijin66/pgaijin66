@@ -30,9 +30,15 @@
 
 <p align='center'>
 <a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/aws.png"></a>&nbsp;&nbsp;
-<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/k8s.jpeg"></a>&nbsp;&nbsp;
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/k8s.png"></a>&nbsp;&nbsp;
 <a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/bash.png"></a>&nbsp;&nbsp;
 <a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/go.png?raw=true"></a>
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/tux.png"></a>&nbsp;&nbsp;
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/mongo.png"></a>&nbsp;&nbsp;
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/flask.png"></a>&nbsp;&nbsp;
+<a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/python.png"></a>&nbsp;&nbsp;
+
+
 </p>
 
 <br />
