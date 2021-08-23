@@ -30,7 +30,7 @@
 </p>
 
 
-### Technologies i work everyday:
+### Technologies i work with everyday:
 
 <p align='center'>
 <a href=""><img height="50" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/go.png"></a>&nbsp;&nbsp;
