@@ -25,7 +25,7 @@
 
 ### Technology Stack:
 
-<img src="icon/go.png" width="50" style="display: inline-block">
+<img src="icon/go.png" width="50" style="display: inline">
 <img src="icon/k8s.png" width="50"> 
 <img src="icon/tux.png" width="50"> 
 <img src="icon/bash.png" width="50"> 
