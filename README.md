@@ -2,6 +2,7 @@
   <img width="250" align='left' style="border-radius: 50%" src="https://github.com/pgaijin66/pgaijin66/blob/main/icon/avatar.png?raw=true">
 </p>
 
+<br />
 ---
 
 # Hi 👋, I'm Prabesh
@@ -17,8 +18,8 @@
 
 <p align='center'>
 <a href="https://dev.to/pgaijin66"><img height="30" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/pgaijin66"><img height="30" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/pgaijin66"><img height="30" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/pgaijin66"><img height="30" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/twitter.png="></a>&nbsp;&nbsp;
+<a href="https://instagram.com/pgaijin66"><img height="30" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/instagram.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/prabeshthapa/"><img height="30" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/linkedin.png?raw=true"></a>
 </p>
 
