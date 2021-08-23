@@ -2,7 +2,8 @@
   <img width="250" align='left' style="border-radius: 50%" src="https://github.com/pgaijin66/pgaijin66/blob/main/icon/avatar.png?raw=true">
 </p>
 
-<br>
+---
+
 # Hi 👋, I'm Prabesh
 
 - 👨‍💻 I’m currently working as DevOps / SRE at [Audinate](http://audinate.com/). 
@@ -24,7 +25,7 @@
 
 ### Technology Stack:
 
-![Go](icon/go.png) ![Linux](icon/tux.png) ![Python](icon/python.svg) ![k8s](icon/k8s.png) ![Bash](icon/bash.png) ![aws](icon/aws.png) ![mongo](icon/mongo.png) ![Flask](icon/flask.png)
+![Go](icon/go.png =250x) ![Linux](icon/tux.png =250x) ![Python](icon/python.svg =250x) ![k8s](icon/k8s.png =250x) ![Bash](icon/bash.png =250x) ![aws](icon/aws.png =250x) ![mongo](icon/mongo.png =250x) ![Flask](icon/flask.png =250x)
 
 <br />
 <br />
