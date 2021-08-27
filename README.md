@@ -4,7 +4,6 @@
 
 <br />
 
-
 # Hi 👋, I'm Prabesh
 
 <p>
@@ -19,8 +18,6 @@
   
 - ⚡   Fun fact: Humans Are Also the Only Animals Whose Brains Shrink as we get old.
 </p>
-
-
 
 <p align='center'>
 <a href="https://dev.to/pgaijin66"><img height="30" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/dev.png"></a>&nbsp;&nbsp;
