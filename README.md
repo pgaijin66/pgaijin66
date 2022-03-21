@@ -16,7 +16,7 @@
   
 - 🐦  Best way to reach me is on [linkedin.com/in/prabeshthapa](https://www.linkedin.com/in/prabeshthapa). 
   
-- ⚡   Fun fact: Humans Are Also the Only Animals Whose Brains Shrink as we get old.
+- ⚡   I have started creating youtube videos to share my knowledge and experience. Please subscribe if you feel the same: https://www.youtube.com/channel/UCh1bZiM1f8bGmhDtWDLNZnA
 </p>
 
 <p align='center'>
