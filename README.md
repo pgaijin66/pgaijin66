@@ -7,16 +7,7 @@
 # Hi 👋, I'm Prabesh
 
 <p>
-  
-- 👨‍💻  I’m a SRE / DevOps engineer currently living in San Diego.
-  
-- 🐧  I’m looking to collaborate on Python / bash / golang working groups & related projects. 
-  
-- 🐍  I’m a blogger at [99devops](https://99devops.com). 
-  
-- 🐦  Best way to reach me is on [linkedin.com/in/prabeshthapa](https://www.linkedin.com/in/prabeshthapa). 
-  
-- ⚡   I have started creating youtube videos to share my knowledge and experience. Please subscribe if you feel the same: https://www.youtube.com/channel/UCh1bZiM1f8bGmhDtWDLNZnA
+⚡   I have started creating youtube videos to share my knowledge and experience. Please subscribe if you feel the same: https://www.youtube.com/channel/UCh1bZiM1f8bGmhDtWDLNZnA
 </p>
 
 <p align='center'>
