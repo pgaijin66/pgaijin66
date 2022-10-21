@@ -20,5 +20,3 @@
 ### 📕 Latest Blog Posts
 
 - [99devops.com](https://99devops.com) <br />
-- [Medium](https://prabeshthapa.medium.com/) <br />
-
