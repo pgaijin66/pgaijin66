@@ -7,7 +7,7 @@
 # Hi 👋, I'm Prabesh
 
 <p>
-⚡   I have started creating youtube videos to share my knowledge and experience. Please subscribe for more devops and sre related contents: https://www.youtube.com/channel/UCh1bZiM1f8bGmhDtWDLNZnA
+⚡   I have started creating youtube videos to share my knowledge and experience. Please subscribe for more devops and sre related contents: https://www.youtube.com/c/ShardedSRE
 </p>
 
 <p align='center'>
