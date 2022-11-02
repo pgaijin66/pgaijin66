@@ -1,22 +1,13 @@
-<p align='center'>
-  <a href=""><img align='center' src="https://github.com/pgaijin66/pgaijin66/blob/main/icon/avatar.png" height="auto" width="250" style="border-radius:50%"></a>
-</p>
+# Hi there 👋,
 
-<br />
+Hi, I'm Prabesh, a SRE with SE background. I have avid interest in backend engineering and distributed systems design. Work wise i prefer working on desining systems and solutions that are agnostic to particular technology. I love reading books and solving coding challenges.
 
-# Hi 👋, I'm Prabesh
+## 📌 Blogs
 
-<p>
-⚡   I have started creating youtube videos to share my knowledge and experience. Please subscribe for more devops and sre related contents: https://www.youtube.com/c/ShardedSRE
-</p>
+- Blog: https://99devops.com
+- Youtube: https://www.youtube.com/c/ShardedSRE
 
-<p align='center'>
-<a href="https://dev.to/pgaijin66"><img height="30" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="prabeshthapa.medium.com"><img height="30" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/medium.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/pgaijin66"><img height="30" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/prabeshthapa/"><img height="30" src="https://raw.githubusercontent.com/pgaijin66/pgaijin66/main/icon/linkedin.png?raw=true"></a>
-</p>
+## 📌 Get in touch
+- Twitter: https://twitter.com/pgaijin66
+- Linkedin: https://www.linkedin.com/in/prabeshthapa
 
-### 📕 Latest Blog Posts
-
-- [99devops.com](https://99devops.com) <br />
