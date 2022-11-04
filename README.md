@@ -1,6 +1,9 @@
 # Hi there 👋,
 
-Hi, I'm Prabesh, a SRE with SE background. I have avid interest in backend engineering and distributed systems design. Work wise i prefer working on desining systems and solutions that are agnostic to particular technology. I love reading books and solving coding challenges.
+Hi, I'm Prabesh, a SRE with SE background. I have avid interest in OS internals, backend engineering and systems design. I like to solve complex problems. Work wise i prefer working on desining systems and solutions that are agnostic to particular technology. I love reading books and solving coding challenges.
+
+## 📌 Quote of the month
+#### "Testing shows the presence, not the absense of bugs" - Djikstras
 
 ## 📌 Blogs
 
