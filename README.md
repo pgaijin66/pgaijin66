@@ -13,4 +13,3 @@ Hi, I'm Prabesh, a SRE with SE background. I have avid interest in OS internals,
 ## 📌 Get in touch
 - Twitter: https://twitter.com/pgaijin66
 - Linkedin: https://www.linkedin.com/in/prabeshthapa
-
