@@ -8,11 +8,11 @@ I’m a SRE with SE background with around 5 years of experience. I am currently
 
 📦  All the repositories in here are the storage for whatever technical things i have been working on lately, mostly for my own gratification. If anyone finds it useful or interesting, even better.
 
-📚  I love reading tech books and have started sharing key takeaways of all the books i read. You can find it here [books](https://99devops.com/books)
+📚  I love reading tech books. You can find it here [books](https://99devops.com/books)
   
-🙋  I am looking to collaborate on projects related to system design, backend development and information security so, please reach out if you have such projects.
+🙋  I am looking to collaborate on projects related to system design, backend development and information security so, please reach out.
   
-📫  Please feel free to reach out to me directly via [Linkedin](https://www.linkedin.com/in/prabeshthapa) if you want to talk about anything. I mean almost anything, tech or non tech, career advise, personal struggles etc and i will listen. I believe that *"A good friend is always better than money in the pocket"*.
+📫  Please feel free to reach out to me directly via [Linkedin](https://www.linkedin.com/in/prabeshthapa) if you want to talk about anything. I mean almost anything, tech or non tech, career advise, resume review, personal help etc and i will listen. I believe that *"A good friend is always better than money in the pocket"*. 
 
 #### Content creation
 - [Medium](https://medium.com/@prabeshthapa)
