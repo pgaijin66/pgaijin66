@@ -6,7 +6,7 @@ I’m a SRE with SE background with around 5 years of experience. I am currently
 
 🎯  My goal in life is to be 0.00001% better than what i was yesterday. To what extent, i would succeed ? Time will tell but as the saying goes "It's not the destination, but the journey that matters" hence i am trying to enjoying every bit of this journey.
 
-📦  All the repositories in here are the storage for whatever technical things i have been working on lately, mostly for my own gratification. If anyone finds it useful for interesting, even better.
+📦  All the repositories in here are the storage for whatever technical things i have been working on lately, mostly for my own gratification. If anyone finds it useful or interesting, even better.
 
 📚  I love reading tech books and have started sharing key takeaways of all the books i read. You can find it here [books](https://99devops.com/books)
   
