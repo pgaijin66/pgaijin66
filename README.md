@@ -2,7 +2,7 @@
 
 I’m a SRE with SE background with around 5 years of experience. I am currently living in San Diego, California. I started my career as a systems engineer and later transitioned to Site Reliability Engineering. 
 
-🚴  I have an avid interest in software engineering and backend development but i also have thousands other interests and I’m always looking to add more. Some one which are ( not in any order ), painting, cooking, watching movies, playing guitar.
+🚴  I have an avid interest in software engineering and backend development but i also have thousands other interests and I’m always looking to add more. Some of them are ( not in any order ), painting, cooking, watching movies, playing guitar.
 
 🎯  My goal in life is to be 0.00001% better than what i was yesterday. To what extent, i would succeed ? Time will tell but as the saying goes "It's not the destination, but the journey that matters" hence i am trying to enjoying every bit of this journey.
 
