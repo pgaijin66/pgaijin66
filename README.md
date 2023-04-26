@@ -4,7 +4,7 @@ I’m a SRE with SE background with around 5 years of experience. I am currently
 
 🚴  I have an avid interest in software engineering and backend development but i also have thousands other interests and I’m always looking to add more. Some of them are ( not in any order ), painting, cooking, watching movies, playing guitar.
 
-🎯  My goal in life is to be 0.00001% better than what i was yesterday. To what extent, i would succeed ? Time will tell but as the saying goes "It's not the destination, but the journey that matters" hence i am trying to enjoying every bit of this journey.
+🎯  My goal in life is to be 0.00001% better than what i was yesterday. To what extent, i would succeed ? Time will tell but as the saying goes "It's not the destination, but the journey that matters" hence i am trying to enjoy every bit of this journey.
 
 📦  All the repositories in here are the storage for whatever technical things i have been working on lately, mostly for my own gratification. If anyone finds it useful or interesting, even better.
 
