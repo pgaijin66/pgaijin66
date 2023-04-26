@@ -1,6 +1,3 @@
-![banner](icon/banner.png)
-
-
 # Hi there 👋,
 
 I’m a SRE with SE background with around 5 years of experience. I am currently living in San Diego, California. I started my career as a systems engineer and later transitioned to Site Reliability Engineering. 
