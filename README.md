@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-I’m a SRE with SE background with around 5 years of experience. I am currently living in San Diego, California. I started my career as a systems engineer and later transitioned to Site Reliability Engineering. 
+I’m a SRE with SE background with around 5 years of experience. 
 
 🚴  I have an avid interest in software engineering and backend development but i also have thousands other interests and I’m always looking to add more. Some of them are ( not in any order ), painting, cooking, watching movies, playing guitar.
 
