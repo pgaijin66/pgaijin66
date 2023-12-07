@@ -1,16 +1,21 @@
-# Hi 👋,
+# Hi, I'm Prabesh 👋,
 
-I am an SRE with a keen interest in programming, system design, and software engineering.
+### About me
+ello! 👋 I'm Prabesh, an SRE (or you could call me a YAML Engineer) who enjoys tinkering with technology. You can read more about me [here](https://99devops.com/about)
 
+### Let's connect
+<a href="https://linkedin.com/in/prabeshthapa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href= "mailto: sthapaprabesh2020@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+### Technical Skills
+![My Skills](https://skillicons.dev/icons?i=kubernetes,go,bash,neovim,git,github,jenkins,docker,prometheus,grafana,linux,aws,mongo,nginx)
+
+### Books
 I enjoy reading books because I believe that true knowledge lies in understanding the inner workings of things, and books help me achieve that. You can find some recommended books [here](https://99devops.com/books).
 
-Please feel free to reach out to me directly via [LinkedIn](https://www.linkedin.com/in/prabeshthapa) if you would like to discuss anything, such as technology, career advice, resume review, or PR review. I will do my best to assist you.
-
-#### Content creation
+### Knowledge sharing
 - [Medium](https://medium.com/@prabeshthapa)
 - [Personal Blog](https://99devops.com)
 - [Youtube](https://www.youtube.com/c/ShardedSRE)
 
-#### Socials
-- [Twitter](https://twitter.com/pgaijin66)
-- [Linkedin](https://www.linkedin.com/in/prabeshthapa)
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgaijin66&layout=compact&hide=shell&theme=blueberry&hide_border=false&bg_color=ffffff00" height="185"></a>
