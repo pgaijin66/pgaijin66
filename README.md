@@ -18,4 +18,15 @@ I enjoy reading books because I believe that true knowledge lies in understandin
 - [Personal Blog](https://99devops.com)
 - [Youtube](https://www.youtube.com/c/ShardedSRE)
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgaijin66&layout=compact&hide=shell&theme=blueberry&hide_border=false&bg_color=ffffff00" height="185"></a>
+<h2 align="center"> Github stats </h2>
+<br/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgaijin66&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+alt="pgaijin66 :: overall Top Langs " />
+</p>
+<p align="center">
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pgaijin66&theme=gruvbox&layout=compact&hide_border=true"
+alt="pgaijin66 :: Top Langs by repo" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pgaijin66&theme=gruvbox&layout=compact&hide_border=true"
+alt="pgaijin66 :: Top Langs by commit" />
+</p>
