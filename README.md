@@ -3,12 +3,10 @@
 ### About me
 ello! 👋 I'm Prabesh, an SRE (or you could call me a YAML Engineer) who enjoys tinkering with technology. You can read more about me [here](https://99devops.com/about)
 
-### Books
-I enjoy reading books because I believe that true knowledge lies in understanding the inner workings of things, and books help me achieve that. You can find some recommended books [here](https://99devops.com/books).
-
 ### Knowledge sharing
+- [ Reliability Engineering Newsletter ](https://reliabilityengineering.substack.com)
 - [Medium](https://medium.com/@prabeshthapa)
-- [Personal Blog](https://99devops.com)
+- [Blog](https://99devops.com)
 - [Youtube](https://www.youtube.com/c/ShardedSRE)
 
 <h2 align="center"> Github stats </h2>
