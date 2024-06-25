@@ -15,9 +15,3 @@ ello! 👋 I'm Prabesh, an SRE (or you could call me a YAML Engineer) who enjoys
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgaijin66&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
 alt="pgaijin66 :: overall Top Langs " />
 </p>
-<p align="center">
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pgaijin66&theme=gruvbox&layout=compact&hide_border=true"
-alt="pgaijin66 :: Top Langs by repo" />
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pgaijin66&theme=gruvbox&layout=compact&hide_border=true"
-alt="pgaijin66 :: Top Langs by commit" />
-</p>
